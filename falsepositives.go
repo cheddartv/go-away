@@ -31,6 +31,8 @@ var falsePositives = []string{
 	"lass",
 	"libshitz",
 	"magnacumlaude",
+	"magna cum laude",
+	"magna-cum-laude",
 	"mass",
 	"mocha",
 	"pass",
